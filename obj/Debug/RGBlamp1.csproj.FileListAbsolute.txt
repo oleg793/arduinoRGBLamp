@@ -1,0 +1,10 @@
+D:\Visual Studio\RGBlamp1\RGBlamp1\bin\Debug\RGBlamp1.exe.config
+D:\Visual Studio\RGBlamp1\RGBlamp1\bin\Debug\RGBlamp1.exe
+D:\Visual Studio\RGBlamp1\RGBlamp1\bin\Debug\RGBlamp1.pdb
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.csprojAssemblyReference.cache
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.Form1.resources
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.Properties.Resources.resources
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.csproj.GenerateResource.cache
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.exe
+D:\Visual Studio\RGBlamp1\RGBlamp1\obj\Debug\RGBlamp1.pdb
